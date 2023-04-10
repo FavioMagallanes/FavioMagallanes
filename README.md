@@ -1,5 +1,8 @@
 # 💫 About Me:
-Soy desarrollador frontend enfocado en React
+Gracias por interesarte en mi perfil, te cuento algo sobre mi 💬 : 👨‍💻Soy frontend enfocado en React.
+✨Me considero una persona responsable, detallista, y con gran motivación que disfruta del trabajo en equipo.
+Algunas de las tecnologías utilizadas en los proyectos fueron :
+HTML, CSS, Javascript con programación funcional, React y React Native con Hooks, Typescript, Redux, Context,  Styled Components, Material UI, Storybook y Scrum como metodología ágil.
 
 
 ## 🌐 Socials:
