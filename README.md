@@ -1,8 +1,9 @@
 # 💫 About Me:
-Gracias por interesarte en mi perfil, te cuento algo sobre mi 💬 : 👨‍💻Soy frontend enfocado en React.
-✨Me considero una persona responsable, detallista, y con gran motivación que disfruta del trabajo en equipo.
-Algunas de las tecnologías utilizadas en los proyectos fueron :
-HTML, CSS, Javascript con programación funcional, React y React Native con Hooks, Typescript, Redux, Zustand, Context, TanStack Query, Tailwind, Shadcn/UI, Material UI, y Scrum como metodología ágil.
+Senior Frontend Developer | Product Engineer (AI-focused)
+​🚀 +5 años construyendo aplicaciones escalables con React.
+🧠 Especializándome en el puente entre modelos de IA (LLMs) y el usuario: Streaming (SSE), Orquestación con FastAPI y gestión dinámica de contexto.
+🛠️ Mi foco: Hacer que la IA se sienta instantánea, intuitiva y útil.
+⚡️ React / TypeScript / Python / FastAPI
 
 
 ## 🌐 Socials:
