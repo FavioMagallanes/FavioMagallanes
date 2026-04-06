@@ -1,4 +1,4 @@
-# 💫 Hola, soy Favio Magallanes
+# 💫 Hola, soy Favio.
 ### Senior Frontend Developer | Product Engineer (AI-focused)
 
 Exploro la intersección entre el **Frontend de alto rendimiento** y la **Inteligencia Artificial**. Mi objetivo es transformar modelos complejos en experiencias de usuario fluidas, intuitivas y rápidas.
