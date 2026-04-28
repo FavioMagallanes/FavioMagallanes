@@ -1,5 +1,5 @@
 # 💫 Hola, soy Favio.
-### Senior Frontend Developer | Product Engineer (AI-focused)
+### Senior Frontend Engineer | (AI-focused)
 
 Exploro la intersección entre el **Frontend de alto rendimiento** y la **Inteligencia Artificial**. Mi objetivo es transformar modelos complejos en experiencias de usuario fluidas, intuitivas y rápidas.
 
@@ -9,7 +9,7 @@ Exploro la intersección entre el **Frontend de alto rendimiento** y la **Inteli
 - 🚀 **+5 años** construyendo aplicaciones escalables y resilientes con el ecosistema de **React**.
 - 🧠 **Especialización en IA:** Enfocado en cerrar la brecha entre LLMs y el usuario final mediante **Streaming (SSE)**, **Orquestación con FastAPI** y gestión dinámica de contexto.
 - 🛠️ **Mi foco:** Reducir la latencia percibida y diseñar interfaces no deterministas que generen confianza.
-- ⚡ **Stack Principal:** React, TypeScript, Python y FastAPI.
+
 
 ---
 
