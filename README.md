@@ -1,9 +1,10 @@
-# Favio Magallanes
+<img src="assets/banner.svg" alt="Favio Magallanes, Frontend Engineer" width="100%" />
 
-**Senior Frontend Engineer** · React, TypeScript e interfaces para IA
-Buenos Aires, Argentina · Nubiral S.A.
+Frontend Engineer con más de 5 años desarrollando aplicaciones con **React** y **TypeScript**. Me enfoco en componentes modulares y mantenibles, buen rendimiento y, cada vez más, en interfaces para productos con IA: respuestas en streaming, manejo de contexto y UX que genera confianza frente a resultados no deterministas.
 
-Más de 5 años construyendo aplicaciones web escalables con el ecosistema de React. Hoy me enfoco en interfaces para productos con LLMs: streaming de respuestas (SSE), manejo de contexto y UX que genere confianza con resultados no deterministas.
+Escribo sobre código limpio, arquitectura de componentes y UX para IA en [LinkedIn](https://www.linkedin.com/in/favio-magallanes/).
+
+📍 Buenos Aires, Argentina
 
 ---
 
@@ -19,10 +20,11 @@ Más de 5 años construyendo aplicaciones web escalables con el ecosistema de Re
 
 ### Stack
 
-**Frontend** &nbsp; React · Next.js · TypeScript · Tailwind CSS · MUI · Styled Components
-**Estado y datos** &nbsp; TanStack Query · Zustand · Redux
-**IA** &nbsp; Vercel AI SDK · OpenAI · LangChain
-**Backend y herramientas** &nbsp; Python · FastAPI · Supabase · Figma
+**Frontend** · React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, MUI, Styled Components
+**Estado y datos** · TanStack Query, Zustand, Redux
+**IA** · Vercel AI SDK, OpenAI, LangChain
+**Cloud y backend** · AWS, Python, FastAPI, Supabase
+**Diseño** · Figma
 
 ---
 
